@@ -1,0 +1,28 @@
+{
+  "name": "catalog-popups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:dev": "node_modules/shipit-cli/bin/shipit dev deploy",
+    "deploy:prod": "node_modules/shipit-cli/bin/shipit prod deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ualibraries/catalog-popups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ualibraries/catalog-popups/issues"
+  },
+  "homepage": "https://github.com/ualibraries/catalog-popups#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "shipit-cli": "^3.0.0",
+    "shipit-deploy": "^2.5.1",
+    "yargs": "^8.0.2"
+  }
+}
