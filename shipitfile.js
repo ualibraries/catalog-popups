@@ -14,7 +14,7 @@ module.exports = function (shipit) {
   shipit.initConfig({
     default: {
       workspace: '/tmp/ual-libcal',
-      deployTo: '/data1/mainsite/vendor-support/catalog',
+      deployTo: '/data1/mainsite/vendor-support/catalog-popups',
       repositoryUrl: 'https://github.com/ualibraries/catalog-popups.git',
       ignores: ['.git', 'node_modules'],
       rsync: ['--del'],

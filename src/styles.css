@@ -1,0 +1,40 @@
+@import url("https://cdn.uadigital.arizona.edu/lib/ua-brand-fonts/1.0.0/milo.min.css");
+
+body {
+  color: rgb(51, 51, 51);
+  font-family: "MiloWeb", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+}
+
+a {
+  color: #0C234B;
+}
+
+h1 {
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid #E2E9EB;
+  font-size: 24px;
+}
+
+button {
+  font-family: "MiloWeb", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+}
+
+.wrapper {
+  width: 768px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #AB0520;
+  outline: 0;
+  border: none;
+  color: #FFFFFF;
+  font-size: 14px;
+}
