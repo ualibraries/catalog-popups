@@ -20,3 +20,5 @@ The popups can be accessed at: `http://www.library.arizona.edu/vendor-support/ca
 
 * Access to media - `http://www.library.arizona.edu/vendor-support/catalog-popups/current/dist/mediaaccesspopup.html`
 * Access to the Media Collection at the School of Media Arts - `http://www.library.arizona.edu/vendor-support/catalog-popups/current/dist/mediaartspopup.html`
+* Access to Express Retrieval Only items - `http://www.library.arizona.edu/vendor-support/catalog-popups/current/dist/express-retrieval-popup.html`
+* This Book is on Order - `http://www.library.arizona.edu/vendor-support/catalog-popups/current/dist/book-on-order-popup.html`
