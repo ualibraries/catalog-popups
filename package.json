@@ -23,7 +23,6 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
-    "gulp-pug": "^3.3.0",
     "shipit-cli": "^3.0.0",
     "shipit-deploy": "^2.5.1",
     "yargs": "^8.0.2"

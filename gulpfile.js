@@ -1,10 +1,8 @@
 const gulp = require('gulp')
-const pug = require('gulp-pug')
 const connect = require('gulp-connect')
 
 gulp.task('html', () => {
-  return gulp.src('src/**/*.pug')
-    .pipe(pug())
+  return gulp.src('src/**/*.html')
     .pipe(gulp.dest('dist'))
 })
 
